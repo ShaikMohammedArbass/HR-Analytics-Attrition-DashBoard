@@ -58,14 +58,3 @@ Employee turnover creates hiring costs, loss of institutional knowledge, and ope
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![HR Analytics Dashboard Preview](path/to/your/screenshot.png)
-
----
-
-## 🚀 How to Run This Project
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/HR-Analytics-Dashboard.git](https://github.com/your-username/HR-Analytics-Dashboard.git)
